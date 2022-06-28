@@ -7,6 +7,7 @@ function App() {
       <div>commit-1</div>
       <div>commit-2</div>
       <div>dev/login branch commit</div>
+      <div>dev/login branch commit 2</div>
     </div>
   );
 }
